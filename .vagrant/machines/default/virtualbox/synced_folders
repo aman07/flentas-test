@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"create":true,"group":"www-data","owner":"www-data","guestpath":"/var/www","hostpath":"/home/ds/Downloads/flentas-test","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/ds/Downloads/flentas-test","disabled":false,"__vagrantfile":true}}}
